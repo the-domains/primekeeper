@@ -6,9 +6,10 @@ color:
   saturation: 0.062163232592865825
   rhythmicContrast: 0.5720563519280404
   brandColors:
-    - '#475359'
-    - '#92A7B3'
-    - '#00B3E2'
-    - '#EFEFF4'
-    - '#A4DCEE'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: PrimeKeeper
+title: PrimeKeeper
