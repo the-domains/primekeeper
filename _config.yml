@@ -1,0 +1,14 @@
+layout_spectrum: 0.8245449108071625
+typography_spectrum: 0.49343449622392654
+color:
+  brandStrength: 0.651857633376494
+  lightness: 0.08985696150921285
+  saturation: 0.062163232592865825
+  rhythmicContrast: 0.5720563519280404
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: PrimeKeeper
